@@ -165,7 +165,7 @@ I build **autonomous AI systems** end-to-end — from LLM reasoning loops to **M
 
 ```bash
 $ connect --to rayyan666 --intent hire
-> LinkedIn     ➜  linkedin.com/in/rayyanaliakbar
+> LinkedIn     ➜  https://www.linkedin.com/in/rayyanaliakbar
 > GitHub       ➜  github.com/rayyan666
 > Expertise    ➜  Agentic AI · MCP Servers · Deep Learning · Quant ML · GNN · NLP
 > Status       ✅  Available for AI/ML Engineering & Research Roles
