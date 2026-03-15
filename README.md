@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
- ██████╗  █████╗ ██╗   ██╗██╗   ██╗ █████╗ ███╗   ██╗
- ██╔══██╗██╔══██╗╚██╗ ██╔╝╚██╗ ██╔╝██╔══██╗████╗  ██║
- ██████╔╝███████║ ╚████╔╝  ╚████╔╝ ███████║██╔██╗ ██║
- ██╔══██╗██╔══██║  ╚██╔╝    ╚██╔╝  ██╔══██║██║╚██╗██║
- ██║  ██║██║  ██║   ██║      ██║   ██║  ██║██║ ╚████║
- ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
+                                                                      ██████╗  █████╗ ██╗   ██╗██╗   ██╗ █████╗ ███╗   ██╗
+                                                                      ██╔══██╗██╔══██╗╚██╗ ██╔╝╚██╗ ██╔╝██╔══██╗████╗  ██║
+                                                                      ██████╔╝███████║ ╚████╔╝  ╚████╔╝ ███████║██╔██╗ ██║
+                                                                      ██╔══██╗██╔══██║  ╚██╔╝    ╚██╔╝  ██╔══██║██║╚██╗██║
+                                                                      ██║  ██║██║  ██║   ██║      ██║   ██║  ██║██║ ╚████║
+                                                                      ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00FF41&center=true&vCenter=true&width=700&lines=Agentic+AI+Engineer+%F0%9F%A4%96;MCP+Server+Architect+%7C+LLM+Orchestration;Deep+Learning+%7C+Neural+Networks+%7C+NLP;Quantitative+ML+%7C+Anomaly+Detection;%22Autonomous+systems.+Real+impact.%22)](https://git.io/typing-svg)
