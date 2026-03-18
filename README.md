@@ -146,21 +146,6 @@ I build **autonomous AI systems** end-to-end — from LLM reasoning loops to **M
 
 ---
 
-## `> cat philosophy.txt`
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│   "I don't build chatbots. I build systems that think in loops,         │
-│    use tools like engineers, and get better without being told to."     │
-│                                                                         │
-│   Agentic AI isn't a feature. It's the architecture of what comes next. │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
 ## `> ping rayyan --hire`
 
 ```bash
