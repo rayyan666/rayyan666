@@ -51,7 +51,7 @@ class RayyanAliAkbar:
 
 ## `> cat expertise.md`
 
-### 🤖 Agentic AI & MCP Architecture
+### Agentic AI & MCP Architecture
 
 I build **autonomous AI systems** end-to-end — from LLM reasoning loops to **MCP (Model Context Protocol) server** integrations that give agents persistent memory, tool access, and environmental awareness. My agents don't just respond; they plan, act, and self-correct.
 
@@ -60,14 +60,14 @@ I build **autonomous AI systems** end-to-end — from LLM reasoning loops to **M
 - **LLM fine-tuning & prompting** for domain-specific agentic behavior
 - **RAG pipelines** with vector stores (FAISS, Chroma) and multi-document retrieval
 
-### 📐 Quantitative ML & Statistical Modelling
+### Quantitative ML & Statistical Modelling
 
 - **Predictive modelling** for time-series, anomaly detection, and telemetry data
 - **Self-supervised learning** — contrastive, masked, and predictive pretraining strategies
 - **Graph Neural Networks** for relational & transactional data (fraud, network graphs)
 - Statistical hypothesis testing, feature engineering, and model interpretability (SHAP, LIME)
 
-### ⚡ Deep Learning & Neural Networks
+### Deep Learning & Neural Networks
 
 - CNN, RNN/LSTM, Transformer and GNN architectures — implemented from scratch
 - Custom loss functions, regularization strategies, and training dynamics
@@ -77,7 +77,7 @@ I build **autonomous AI systems** end-to-end — from LLM reasoning loops to **M
 
 ## `> ls ./projects --detailed`
 
-| ⚙️ Project | 🔍 What it does | 🧬 Core Tech |
+|  Project |  What it does |  Core Tech |
 |---|---|---|
 | [**Personal-Agentic-AI-Assistant**](https://github.com/rayyan666/Personal-Agentic-AI-Assistant) | Fully autonomous AI assistant with memory, tool use & multi-step reasoning | `Agentic AI` `LangChain` `Python` |
 | [**Hermes1.0**](https://github.com/rayyan666/Hermes1.0) | Custom AI-powered web interface with LLM integration | `HTML` `JS` `LLM APIs` |
@@ -90,7 +90,7 @@ I build **autonomous AI systems** end-to-end — from LLM reasoning loops to **M
 
 ## `> cat stack.yml`
 
-**🤖 Agentic AI & LLM Stack**
+** Agentic AI & LLM Stack**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=00ff41)
@@ -102,7 +102,7 @@ I build **autonomous AI systems** end-to-end — from LLM reasoning loops to **M
 ![FAISS](https://img.shields.io/badge/FAISS-0078D4?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
 
-**🧠 Deep Learning & Neural Networks**
+** Deep Learning & Neural Networks**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -111,7 +111,7 @@ I build **autonomous AI systems** end-to-end — from LLM reasoning loops to **M
 ![PyG](https://img.shields.io/badge/PyTorch_Geometric-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
 
-**📊 Quantitative & Data Science**
+** Quantitative & Data Science**
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -120,7 +120,7 @@ I build **autonomous AI systems** end-to-end — from LLM reasoning loops to **M
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-3498DB?style=flat-square)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-**🐍 Languages & Tools**
+** Languages & Tools**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -150,11 +150,12 @@ I build **autonomous AI systems** end-to-end — from LLM reasoning loops to **M
 
 ```bash
 $ connect --to rayyan666 --intent hire
-> LinkedIn     ➜  linkedin.com/in/rayyanaliakbar
-> GitHub       ➜  github.com/rayyan666
-> Expertise    ➜  Agentic AI · MCP Servers · Deep Learning · Quant ML · GNN · NLP
-> Status       ✅  Available for AI/ML Engineering & Research Roles
-> Response     ⚡  Fast — reach out on LinkedIn
+> LinkedIn       linkedin.com/in/rayyanaliakbar
+> GitHub         github.com/rayyan666
+> Gmail          rayyanakbar0208@gmail.com
+> Expertise      Agentic AI · MCP Servers · Deep Learning · Quant ML · GNN · NLP
+> Status         Available for AI/ML Engineering & Research Roles
+> Response       Fast — reach out on LinkedIn
 ```
 
 ---
